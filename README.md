@@ -1,7 +1,7 @@
 # data_collection_challenge
 Module 11 Challenge: Web scraping HTML with BeautifulSoup
 
-Graded__/100
+Graded 100/100
 
 
 Sources:
